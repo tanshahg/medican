@@ -1,0 +1,50 @@
+2003   01/02/2023 1165      ADDRESS TAB 5/80                                   AV62       15             0              0              0              
+2003   01/02/2023 1166      ADDRESS TAB 5/160                                  AV39       15             0              0              0              
+2003   01/02/2023 1167      ADRESS TAB 10/160                                  AV46       10             0              0              0              
+2003   01/02/2023 1168      COUGAR TAB 5 MG                                    C199       12             0              0              0              
+2003   01/02/2023 1169      COUGAR TAB 10 MG                                   C216       12             0              0              0              
+2003   01/02/2023 1171      COUGAR TAB 20 MG                                   C197       10             0              0              0              
+2003   01/02/2023 1172      ECRU TAB 2.5 MG                                    07         5              0              0              0              
+2003   01/02/2023 1173      ECRU TAB 5 MG                                      07         5              0              0              0              
+2003   01/02/2023 1174      NITROSCOT SR CAP 2.6 MG                            NS455      131            0              0              0              
+2003   01/02/2023 1175      NITROSCOT SR CAP 6.4 MG                            NS425      115            0              0              0              
+2003   01/02/2023 1176      VORETA TAB 10 MG                                   20         75             0              0              0              
+2003   01/02/2023 1177      VORETA TAB 25 MG                                   10         60             0              0              0              
+2003   01/02/2023 1178      VORETA PLUS TAB 12.5/500 MG                        14         15             0              0              0              
+2003   01/02/2023 1179      VORETA PLUS TAB 12.5/1000 MG                       27         15             0              0              0              
+2003   01/02/2023 1180      CEFISCOT SUSP 30ML TWIN PACK                       BD23002    150            0              0              0              
+2003   01/02/2023 1181      CEFSICOT DS SUSP TWIN PACK                         CFS426     100            0              0              0              
+2003   01/02/2023 1183      FERSIP SYRUP 120ML                                 78         150            0              0              0              
+2003   01/02/2023 1184      MOXARA TAB 400 MG                                  05         300            0              0              0              
+2003   01/02/2023 1185      FERSIP CHEWABLE TAB 100MG                          30         150            0              0              0              
+2003   01/02/2023 1186      OSFIT TAB                                          OF27       20             0              0              0              
+2003   01/02/2023 1187      PAIN AID PLUS 50MG                                 P154       50             0              0              0              
+2003   01/02/2023 1188      PAIN AID PLUS TAB 75MG                             P142       50             0              0              0              
+2003   01/02/2023 1189      SENORA TAB 2.5 MG                                  34         70             0              0              0              
+2003   01/02/2023 1190      AMITY SUSP 125 MG                                  AYS169     100            0              0              0              
+2003   01/02/2023 1191      AMITY SUSP 250 MG                                  AYS170     100            0              0              0              
+2003   01/02/2023 1192      AMITY 250 MG TAB                                   M93        100            0              0              0              
+2003   01/02/2023 1193      AMITY 500 MG TAB                                   M114       100            0              0              0              
+2003   01/02/2023 1194      ATMOS 10 MG TAB                                    AR23001    100            0              0              0              
+2003   01/02/2023 1195      ATMOS 20 MG TAB                                    A90        100            0              0              0              
+2003   01/02/2023 1197      PENTAXOL 1 MG TAB                                  FA23001    50             0              0              0              
+2003   01/02/2023 1199      PRESCOT 75 MG CAP                                  62         25             0              0              0              
+2003   01/02/2023 1200      PRESCOT 100 MG CAP                                 55         25             0              0              0              
+2003   01/02/2023 1201      REMIT DR 30 MG CAP                                 56         100            0              0              0              
+2003   01/02/2023 1202      REMIT DR 60 MG CAP                                 30         100            0              0              0              
+2003   01/02/2023 1203      SUNNY D INSTA AMP 1X5                              S421       28             0              0              0              
+2003   01/02/2023 1222      AZISCOT 250 MG TAB                                 13         50             0              0              0              
+2003   01/02/2023 1223      AZISCOT 500 MG TAB                                 21         50             0              0              0              
+2003   01/02/2023 1224      DUNE 5 MG TAB                                      D126       10             0              0              0              
+2003   01/02/2023 1225      DUNE 10 MG TAB                                     D145       10             0              0              0              
+2003   01/02/2023 1227      SCOPIC 500 MG CAP                                  19         10             0              0              0              
+2003   01/02/2023 1228      SUNNY D INSTA AMP 1S PACK                          S424       143            0              0              0              
+2003   01/02/2023 1231      ESOSCOT CAP 20MG                                   ES205      15             0              0              0              
+2003   01/02/2023 1232      ESOSCOT CAP 40MG                                   ES219      35             0              0              0              
+2003   01/02/2023 1233      PENTOXOL-M TAB                                     EY23001    482            0              0              0              
+2003   01/02/2023 1234      SUNNY D STAT CAPS                                  451        2937           0              0              0              
+2003   01/02/2023 1235      SACUVAL TAB 24/26 MG                               60         47             0              0              0              
+2003   01/02/2023 1236      SACUVAL TAB 49/51 MG                               30         17             0              0              0              
+2003   01/02/2023 1237      SUNNY D 10000 CAP 60S                              59         22             0              0              0              
+2003   01/02/2023 1238      SUNNY D DROP                                       93         50             0              0              0              
+2003   01/02/2023 1239      AZISCOT 200mg/5ml  SUSP                            19         30             0              0              0              

@@ -1,0 +1,495 @@
+2003   104506     HAFIZ MS                                           PEZU                                               02 7                PEZU                                               
+2003   104505     DR KHAN SHAH                                       NEAR HAYAT COMPLEX DHQ DIKHAN                      02 1                DHQ                                                
+2003   104504     SAJID MS NAWAB ADDA                                NAWAB ADDA DIKHAN                                  02 10               MULTAN ROAD                                        
+2003   104503     SUBHAN MS PANYALA                                  PANYALA                                            02 12               PANYALA                                            
+2003   104502     DR ABGEENA AKHTAR                                  NEAR REHMANIA HOSPITAL                             02 1                DHQ                                                
+2003   104501     UMAR MS                                            ZAFARABAD                                          02 13               ZAFAR ABAD COLO                                    
+2003   104500     SABIR MS MUQIM SHAH                                NEAR PUSHA PUL MUQIM SHAH ADA                      02 7                PEZU                                               
+2003   104499     NAIMAT SHIFA MS MUQIM SHAH ADA                     NEAR PUSHA PUL MUQIM SHAH ADA                      02 7                PEZU                                               
+2003   104498     KHAWAR MS C/O DR MUNTAZIR PAROWA                   PAROWA                                             02 19               NAIWELA                                            
+2003   104497     GILLANI MS MARHA                                   MARHA                                              02 19               NAIWELA                                            
+2003   104496     AASHIQ MS DHQ                                      DHQ                                                02 1                DHQ                                                
+2003   104495     ARYAN MS                                           ISLAMABAD COMPLEX DHQ DIKHAN                       02 1                DHQ                                                
+2003   104494     AL SEHAT MS                                        JINNAH 2 DHQ DIKHAN                                02 1                DHQ                                                
+2003   104493     SHAMAL MEDICOSE                                    SHAH ALAMABAD CHOWK MADNI TOWN                     02 1                DHQ                                                
+2003   104492     AIZAZ MS PAROA                                     PAROA                                              02 19               NAIWELA                                            
+2003   104491     MAKKA MS RAMAK                                     RAMAK                                              02 20               RAMAK                                              
+2003   104490     AWAIS MS RAMAK                                     RAMAK                                              02 20               RAMAK                                              
+2003   104489     AHMAD MS PAROA                                     PAROA                                              02 19               NAIWELA                                            
+2003   104488     ALHAMD PHARMACY LUNDA                              LUNDA SHARIF                                       02 19               NAIWELA                                            
+2003   104487     ALHARAMAIN MS                                      OBHAYA PUL                                         02 19               NAIWELA                                            
+2003   104486     BHATTI MS DAHOTAR                                  DAHOTAR ADA                                        02 18               DHAKKI MOR                                         
+2003   104485     RAZAQ SHAH MS                                      MAIN BAZAR DRABIN                                  02 5                DRABIN                                             
+2003   104484     ARYAAN MARYAM MS                                   ISLAMABAD COMPLEX DR SHAZIYA                       02 1                DHQ                                                
+2003   104483     RAHEEM PHARMACY                                    DRAZINDA                                           02 22               DRAZINDA                                           
+2003   104482     TAUQEER MS ARRA ROAD                               ARRA ROAD                                          02 15               DIKHAN                                             
+2003   104481     NEW ALVI MS                                        NEAR TECHNICAL COLLEGE DIKHAN                      02 10               MULTAN ROAD                                        
+2003   104480     PEER MEDICAL CENTER                                NEAR DAMAN MEDICAL CENTER DHQ DIK                  02 1                DHQ                                                
+2003   104479     ABDUR REHMAN MS                                    ISLAMABAD COMPLEX DHQ                              02 1                DHQ                                                
+2003   104478     SHIEKH MS DHQ                                      JINNAH 2 BASEMENT                                  02 1                DHQ                                                
+2003   104477     SHOAIB MS RAMAK                                    RAMAK                                              02 20               RAMAK                                              
+2003   104476     QADEER MS RAMAK                                    RAMAK                                              02 20               RAMAK                                              
+2003   104475     AL HAMD MS MARHA                                   MARHA                                              02 19               NAIWELA                                            
+2003   104474     ISRA MS DRABAN KHURD                               DRABAN KHURD                                       02 19               NAIWELA                                            
+2003   104473     SULAIMAN MS NEW CHUNGI                             NEW BANNU CHUNGI                                   02 11               BANNU ROAD                                         
+2003   104472     MALIK RANGPUR                                      RANGPUR ADDA                                       02 9                RANGPUR                                            
+2003   104471     ZAFARI MEDICOSE                                    DIN PUR ROAD DIKHAN                                02 15               DIKHAN                                             
+2003   104470     MEDICINE CITY PHARMACY                             GATE KANERAN WALA                                  02 3                4 BAZAR                                            
+2003   104469     AL NASIR                                           NEAR HAFIZ MAIDAN CHAU GALA 4 BAZAR                02 3                4 BAZAR                                            
+2003   104468     FAWAD MS                                           DHQ                                                02 1                DHQ                                                
+2003   104467     AFZAL COMPLEX                                      DHQ                                                02 1                DHQ                                                
+2003   104466     JUNAID AZIZ                                        GILLANI MARKET DHQ                                 02 1                DHQ                                                
+2003   104465     NEW PAKISTAN MS                                    MULTAN ROAD DIKHAN                                 02 10               MULTAN ROAD                                        
+2003   104464     Pak Madina MS                                      FATEH MOR DIKHAN                                   02 19               NAIWELA                                            
+2003   104463     PAKISTAN MS                                        MULTAN ROAD                                        02 10               MULTAN ROAD                                        
+2003   104462     GREEN MS                                           MULTAN ROAD                                        02 10               MULTAN ROAD                                        
+2003   104461     INDUS PHARMACY                                     MULTAN ROAD                                        02 10               MULTAN ROAD                                        
+2003   104460     IRHAM MS                                           MULTAN ROAD                                        02 10               MULTAN ROAD                                        
+2003   104459     UMAR MS                                            MULTAN ROAD                                        02 10               MULTAN ROAD                                        
+2003   104458     ALVI MS                                            MULTAN ROAD                                        02 10               MULTAN ROAD                                        
+2003   104457     WAQAS MS                                           MULTAN ROAD                                        02 10               MULTAN ROAD                                        
+2003   104456     MUNIR COMPLEX                                      FATEH MOR                                          02 19               NAIWELA                                            
+2003   104455     AHMED MS LUNDA                                     NAIVELA                                            02 19               NAIWELA                                            
+2003   104454     MUDASSIR MS TANK ROAD                              TANK ROAD                                          02 13               ZAFAR ABAD COLO                                    
+2003   104453     MZ MS                                              NEAR BISAKI GROUND DIKHAN                          02 2                CIRCULAR ROAD                                      
+2003   104452     DR SALEEM                                          DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104451     DR MUSTANSIR                                       GRID ROAD DIKHAN                                   02 2                CIRCULAR ROAD                                      
+2003   104450     DERA CLINIC                                        DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104449     SULTAN MEDICAL HALL TANK ADA                       TANK ADDA                                          02 3                4 BAZAR                                            
+2003   104448     ZUNAIN MS                                          JINNAH 2 DHQ DIKHAN                                02 1                DHQ                                                
+2003   104447     DR RAFIQUE                                         ZAFAR ABAD DIKHAN                                  02 13               ZAFAR ABAD COLO                                    
+2003   104446     AYAAN MS                                           DHAKI                                              02 18               DHAKKI MOR                                         
+2003   104445     HEALTH MART MS                                     PANYALA                                            02 12               PANYALA                                            
+2003   104444     MUZZAMIL TRADERS                                   JINNAH 2 DHQ DIKHAN                                02 1                DHQ                                                
+2003   104443     JAWAD DHQ                                          ALIZAI GATE DHQ                                    02 1                DHQ                                                
+2003   104442     DANYAL MS                                          FATEH MOR                                          02 19               NAIWELA                                            
+2003   104441     ABDULLAH MS                                        FATEH MOR                                          02 19               NAIWELA                                            
+2003   104440     NEW ALHAFIZ MS                                     OBHAYA PUL NEAR SEHWAG                             02 19               NAIWELA                                            
+2003   104439     DR FARAH GUL                                       DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104438     SADDOZAI DHQ                                       NEAR ALIZAI GATE                                   02 1                DHQ                                                
+2003   104437     PREGHAL MS                                         DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104436     GREEN PHARMACY                                     MRYALI MOR                                         02 10               MULTAN ROAD                                        
+2003   104435     KAMRAN MS                                          ZAFARABAD                                          02 13               ZAFAR ABAD COLO                                    
+2003   104434     DANYAL MS DRABAN                                   MAIN BAZAR DRABIN                                  02 5                DRABIN                                             
+2003   104433     NAJMAL MS                                          PEZU                                               02 7                PEZU                                               
+2003   104432     AALYAN MS                                          SHAHBAZ KHEL PEZU                                  02 6                SHAHBAZ KHEL                                       
+2003   104431     ZAFRAN                                             NAIWELA                                            02 19               NAIWELA                                            
+2003   104430     SHOAIB MS                                          NAIWELA                                            02 19               NAIWELA                                            
+2003   104429     GILANI MEDICINE MARHA                              RAMAK                                              02 20               RAMAK                                              
+2003   104428     DAUD MEDICAL                                       RAMAK                                              02 20               RAMAK                                              
+2003   104427     IRFAN MEDICAL                                      RAMAK                                              02 20               RAMAK                                              
+2003   104426     AL SAIF                                            RAMAK                                              02 20               RAMAK                                              
+2003   104425     AHMAR MEDICAL                                      RAMAK                                              02 20               RAMAK                                              
+2003   104424     ASAD MEDICAL                                       RAMAK                                              02 20               RAMAK                                              
+2003   104423     DR UBAID NAIWELA                                   NAIWELA ADA                                        02 19               NAIWELA                                            
+2003   104422     DR SAIFUR REHMAN                                   CANT MARKET DIKHAN                                 02 2                CIRCULAR ROAD                                      
+2003   104421     BISMILLAH MS                                       ZAFARABAD DIKHAN                                   02 13               ZAFAR ABAD COLO                                    
+2003   104420     DR IRFAN MEHSOOD                                   ZAFARABAD DIKHAN                                   02 13               ZAFAR ABAD COLO                                    
+2003   104419     TAHIR MEDICOSE                                     DRABIN CHUNGI DIKHAN                               02 15               DIKHAN                                             
+2003   104418     ATA PHARMACY                                       THQ HOSPITAL PHARPUR                               02 4                PHARPUR                                            
+2003   104417     ALHARAMAIN                                         ZAFARABAD                                          02 13               ZAFAR ABAD COLO                                    
+2003   104416     SHIFA MEDICAL PHARMACY                             ZAFARABAD                                          02 13               ZAFAR ABAD COLO                                    
+2003   104415     SALMAN KHEL MEDICOSE                               ZAFAR ABAD DIKHAN                                  02 13               ZAFAR ABAD COLO                                    
+2003   104414     UNIQUE MS                                          JINNAH 1 DHQ DIKHAN                                02 1                DHQ                                                
+2003   104413     DR KAMRAN CANT MARKET                              CANT MARKET DIKHAN                                 02 2                CIRCULAR ROAD                                      
+2003   104412     REHMAT MEDICOSE                                    BAKHRI BAZAR NEAR LALA BASHIR SWEET                02 3                4 BAZAR                                            
+2003   104411     DR SARDAR BAHADUR                                  NEAR TABLEEGHI MARKAZ                              02 15               DIKHAN                                             
+2003   104410     COUNTER SALE                                       UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104409     RAUF COMPLEX DIK                                   DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104408     SARDAR MS                                          DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104407     WAHEED MEDICAL STORE                               NEAR ISLAMABAD COMPLEX                             02 1                DHQ                                                
+2003   104406     ATIF MS                                            PHARPUR                                            02 4                PHARPUR                                            
+2003   104405     PRIME MEDICAL CENTER                               JINNAH 2 DHQ DIKHAN                                02 1                DHQ                                                
+2003   104404     HAMZA HAIDER                                       JINNAH 2 DHQ DIKHAN                                02 1                DHQ                                                
+2003   104403     MALIK MS                                           ZAFARABAD                                          02 13               ZAFAR ABAD COLO                                    
+2003   104402     DR KHALID RAZA                                     SHAH BAZ KHEL                                      02 6                SHAHBAZ KHEL                                       
+2003   104401     DR ABRAR                                           ZAFAR ABAD                                         02 13               ZAFAR ABAD COLO                                    
+2003   104400     DR FAKHAR ZAMAN                                    ZAFAR ABAD                                         02 13               ZAFAR ABAD COLO                                    
+2003   104399     ZEESHAN MS ASAD PLAZA                              ASAD PLAZA                                         02 2                CIRCULAR ROAD                                      
+2003   104398     DR UZMA ZAMAN                                      NEAR GILLANI TOWN DIKHAN                           02 10               MULTAN ROAD                                        
+2003   104397     SIYAL COMPLEX                                      NEAR GOL HOTEL CANT MARKET DIKHAN                  02 2                CIRCULAR ROAD                                      
+2003   104396     REHAN MEDICINE & SURGICAL PHARMA                   GRID ROAD                                          02 2                CIRCULAR ROAD                                      
+2003   104395     SAIFI MEDICINE COMPANY                             DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104394     MAMA MS                                            DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104393     NEW NAWAZ                                          BAZAR DIKHAN                                       02 3                4 BAZAR                                            
+2003   104392     DR RAHIM ULLAH                                     PANYALA ADA                                        02 12               PANYALA                                            
+2003   104391     RAFIQUE MS                                         MATRA ADA CHASHMA ROAD DIKHAN                      02 18               DHAKKI MOR                                         
+2003   104390     HEALTH CARE PHARMACY                               CRBC CHOWK DIKHAN                                  02 4                PHARPUR                                            
+2003   104389     ATA MEDICAL STORE KIRI KHAISORE                    KIRI KHAISORE                                      02 4                PHARPUR                                            
+2003   104388     MATRA MS                                           MATRA ADA DHAKKI MOR                               02 18               DHAKKI MOR                                         
+2003   104387     KHAIRSOR MS                                        KIRHI KHAISOR ADA CHASHMA ROAD                     02 4                PHARPUR                                            
+2003   104385     RAHMAN MS                                          PHARPUR                                            02 4                PHARPUR                                            
+2003   104384     NEW MARWAT                                         PEZU                                               02 7                PEZU                                               
+2003   104383     DPWS PHARMACY DINAR HOSPITAL                       DRABIN ROAD MUFTI MEHMOOD                          02 8                MUFTI MEHMOOD H                                    
+2003   104381     LONDON TRADERS                                     DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104379     BARKI WAZIRISTAN MS                                TANK ADA                                           02 3                4 BAZAR                                            
+2003   104378     HAFIZ TANK ADA                                     TANK ADA                                           02 3                4 BAZAR                                            
+2003   104377     NIMRA TANK ADDA                                    TANK ADA                                           02 3                4 BAZAR                                            
+2003   104376     AL SHEIKH MS                                       BAZAR                                              02 3                4 BAZAR                                            
+2003   104375     INDUS MS                                           MULTAN ROAD                                        02 19               NAIWELA                                            
+2003   104374     SIKANDAR                                           PAROA                                              02 19               NAIWELA                                            
+2003   104373     AFFAQ MS                                           PAROA                                              02 19               NAIWELA                                            
+2003   104372     SALEEM                                             NAIWELA                                            02 19               NAIWELA                                            
+2003   104371     BARKI PHARMACY                                     NAIWELA                                            02 19               NAIWELA                                            
+2003   104370     SHAHEEN MEDICAL STORE                              FATEH MOR                                          02 19               NAIWELA                                            
+2003   104369     HAMZA MEDICAL STORE                                NAIWELA                                            02 19               NAIWELA                                            
+2003   104368     SAIF MS                                            PAROA                                              02 19               NAIWELA                                            
+2003   104367     SEHWAG MEDICAL STORE                               NAIWELA                                            02 19               NAIWELA                                            
+2003   104366     MASOOM MS                                          NAIWELA                                            02 19               NAIWELA                                            
+2003   104365     HAMDARD MEDICAL STORE                              MAIN BAZAR DRABIN                                  02 5                DRABIN                                             
+2003   104364     MISBAH MS                                          NEAR GILLANI TOWN                                  02 10               MULTAN ROAD                                        
+2003   104363     AL QAIM PHARMA                                     CANT MARKET GOL HOTEL DIKHAN                       02 2                CIRCULAR ROAD                                      
+2003   104362     DR ZAITOON                                         DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104360     ZEESHAN BAZAR                                      BAZAR                                              02 3                4 BAZAR                                            
+2003   104359     DR KHURSHID                                        SIAL COMPLEX GOL HOTEL CANT MARKET                 02 1                DHQ                                                
+2003   104358     ANWAR USTRANA                                      JINNAH 2 DHQ DIKHAN                                02 1                DHQ                                                
+2003   104357     NEW BALOCH DRUG HOUSE                              DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104356     UBAID MS                                           NIVELA ADA                                         02 15               DIKHAN                                             
+2003   104355     DR SALEEM GRID ROAD                                GRID ROAD DIKHAN                                   02 2                CIRCULAR ROAD                                      
+2003   104354     KASHIF                                             NEAR IMAMIA GATE INSIDE MADNI HSOPITAL             02 3                4 BAZAR                                            
+2003   104353     ISSA MEDICINE COMPANY                              PUSHA PUL BANNU ROAD                               02 11               BANNU ROAD                                         
+2003   104352     JADEED SHORKOT                                     SHORKOT                                            02 11               BANNU ROAD                                         
+2003   104351     MOLVI MS PEZU                                      PEZU                                               02 7                PEZU                                               
+2003   104350     RAZA SHAHBAZ KHEL                                  SHAHBAZ KHEL                                       02 6                SHAHBAZ KHEL                                       
+2003   104349     USMAN MS                                           PANYALA ADA                                        02 12               PANYALA                                            
+2003   104348     HASHIR MS                                          ISLAMABAD CENTER DHQ DIKHAN                        02 1                DHQ                                                
+2003   104347     KHAN PHARPUR                                       PHARPUR                                            02 4                PHARPUR                                            
+2003   104346     SAMINA HOSPITAL PHARPUR                            PHARPUR                                            02 4                PHARPUR                                            
+2003   104345     HASAAN MEDICINE                                    SHIEKH YUSUF ADA DIKHAN                            02 11               BANNU ROAD                                         
+2003   104344     SEHWAG MS                                          BAZAR DIKHAN                                       02 3                4 BAZAR                                            
+2003   104343     ALHAFIZ BABAR                                      MUFTI MEHMOOD HOSPITAL DIK                         02 8                MUFTI MEHMOOD H                                    
+2003   104342     AL SHIEKH MS                                       CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104341     IRTAZA AND ASMA MC                                 ASAD PLAZA TANK ADA                                02 3                4 BAZAR                                            
+2003   104340     NEW DERA MS                                        BAZAR                                              02 3                4 BAZAR                                            
+2003   104339     HASAN DHQ                                          DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104338     DR MUZAFFAR KUNDI                                  DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104337     ALMAKKAH MS                                        RANGPUR ADA                                        02 9                RANGPUR                                            
+2003   104336     NEW ATTA                                           PHARPUR THQ                                        02 16               THQ                                                
+2003   104335     YOUNIS MEDICOSE                                    PHARPUR                                            02 4                PHARPUR                                            
+2003   104334     IMRAN MS                                           NEW BANNU CHUNGI DIK                               02 11               BANNU ROAD                                         
+2003   104333     BHATTI MS DAHOTAR                                  DAHOTAR ADDA CHASHMA ROAD                          02 4                PHARPUR                                            
+2003   104332     AHMAD MS DAHOTAR                                   DAHOTAR ADDA CHASHMA ROAD                          02 4                PHARPUR                                            
+2003   104331     ATTARI MS DAHOTAR                                  DAHOTAR ADDA CHASHMA ROAD                          02 4                PHARPUR                                            
+2003   104330     ROHAN MEDICAL STORE                                DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104329     AMAN MEDICOSE                                      DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104328     DERA PHARMACY                                      TANK ADDA                                          02 3                4 BAZAR                                            
+2003   104327     MUMTAZ MEDICAL STORE                               MUFTI M HOSPITAL                                   02 8                MUFTI MEHMOOD H                                    
+2003   104326     KHIDMAT MEDICOSE                                   TANK ADDA                                          02 3                4 BAZAR                                            
+2003   104325     HASHMAT MS AND SURGICAL                            ALIZAI GATE DHQ DIKHAN                             02 1                DHQ                                                
+2003   104324     SHERYAR MEDICOSE                                   DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104323     ARHAM MEDICOSE                                     MULTAN ROAD                                        02 10               MULTAN ROAD                                        
+2003   104322     UNIQUE MS DHQ                                      NEW BANNU CHUNGI DIKHAN                            02 11               BANNU ROAD                                         
+2003   104321     SULAIMAN KHEL PHARMACY                             DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104320     SHAHID PANYALA MS DHQ                              DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104319     DR UZMA ZAMAN DHQ                                  DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104318     HINA DHQ                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104317     DR ANJAM                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104316     PAK BAZAR                                          BAZAR                                              02 3                4 BAZAR                                            
+2003   104315     IKRAM BAZAR                                        BAZAR                                              02 3                4 BAZAR                                            
+2003   104314     TAUQEER PHARMACY BAZAR                             BAZAR                                              02 3                4 BAZAR                                            
+2003   104313     JUNAID BAZAR                                       BAZAR                                              02 3                4 BAZAR                                            
+2003   104312     FAZAL BAZAR                                        BAZAR                                              02 3                4 BAZAR                                            
+2003   104311     ZAKARIYA BAZAR                                     BAZAR                                              02 3                4 BAZAR                                            
+2003   104310     ANSAR BAZAR                                        BAZAR                                              02 3                4 BAZAR                                            
+2003   104309     KHUWAJA BAZAR                                      BAZAR                                              02 3                4 BAZAR                                            
+2003   104308     SALIM BAZAR                                        BAZAR                                              02 3                4 BAZAR                                            
+2003   104307     GOHAR BAZAR                                        BAZAR                                              02 3                4 BAZAR                                            
+2003   104306     HAJI AND SONS BAZAR                                BAZAR                                              02 3                4 BAZAR                                            
+2003   104305     ALKHIDMAT BAZAR                                    BAZAR                                              02 3                4 BAZAR                                            
+2003   104304     SARHAD PHARMA BAZAR                                BAZAR                                              02 3                4 BAZAR                                            
+2003   104303     SULTAN MEDICAL HALL BAZAR                          BAZAR                                              02 3                4 BAZAR                                            
+2003   104302     KAMRAN BAZAR                                       BAZAR                                              02 3                4 BAZAR                                            
+2003   104301     MALIK BAZAR                                        BAZAR                                              02 3                4 BAZAR                                            
+2003   104300     GUL MEDICINE BAZAR                                 BAZAR                                              02 3                4 BAZAR                                            
+2003   104299     PRIME CARE BAZAR                                   BAZAR                                              02 3                4 BAZAR                                            
+2003   104298     NEW AR REHMAN MS                                   TANK ADA                                           02 3                4 BAZAR                                            
+2003   104297     KHALIL BAZAR                                       BAZAR                                              02 3                4 BAZAR                                            
+2003   104296     ABDULLAH BAZAR                                     BAZAR                                              02 3                4 BAZAR                                            
+2003   104295     ARBAB                                              BAZAR                                              02 3                4 BAZAR                                            
+2003   104294     SAJEEL TRADER BAZAR                                BAZAR                                              02 3                4 BAZAR                                            
+2003   104293     ZAIN DHQ                                           DHQ DIK                                            02 1                DHQ                                                
+2003   104292     NAZAR MEDICINE COM                                 JINNAH 1                                           02 1                DHQ                                                
+2003   104291     GUL MEDICINE GRID ROAD                             CIRCULAR ROAD                                      02 2                CIRCULAR ROAD                                      
+2003   104290     ZAIN MS                                            BAZAR                                              02 3                4 BAZAR                                            
+2003   104289     GOMAL DRUG STORE                                   DHQ DIK                                            02 1                DHQ                                                
+2003   104288     MUZAMMIL MS                                        JINNAH 2                                           02 1                DHQ                                                
+2003   104287     ATEEQ MS                                           JINNAH 2                                           02 1                DHQ                                                
+2003   104286     NEW HAFIZ                                          TANK ADA                                           02 3                4 BAZAR                                            
+2003   104285     NEW KHYBER                                         MUSLIM BAZAR                                       02 3                4 BAZAR                                            
+2003   104284     LODHI                                              DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104283     DR SHAHID NAWAZ KHATTAK                            ISLAMABAD COMPLEX DHQ DIKHA                        02 1                DHQ                                                
+2003   104282     AMMAR MS ISLAMABAD COM                             DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104281     KHAN MS SHORKOT                                    SHORKOT DIKHAN                                     02 11               BANNU ROAD                                         
+2003   104280     DUA MEDICAL STORE                                  NEW BANNU CHUNGI DIKHAN                            02 11               BANNU ROAD                                         
+2003   104279     BHITTANI MS                                        DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104278     HASSAN MS                                          ZANANA HQ DIKHAN FAQEERNI GATE                     02 1                DHQ                                                
+2003   104277     NOMAN MEDICOSE                                     DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104276     ZOHIB MEDICAL STORE                                BASTI MAKEN                                        02 15               DIKHAN                                             
+2003   104275     ZIA MEDICAL STORE                                  COMISSIONARY BAZAR                                 02 3                4 BAZAR                                            
+2003   104274     ZEESHAN MS                                         THQ HOSPITAL                                       02 16               THQ                                                
+2003   104273     ZARWALI MEDICINE COMPANY                           GRID ROAD DIKHAN                                   02 2                CIRCULAR ROAD                                      
+2003   104272     ZANAIN MS                                          DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104271     ZAM SAN ENTERPRISES                                DHQ                                                02 1                DHQ                                                
+2003   104270     ZAKRIA MEDICAL STORE                               UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104269     ZAIN MEDICAL COM                                   UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104268     ZAHOOR MS                                          DHQ HOSPITAL                                       02 1                DHQ                                                
+2003   104267     ZAHOOR MEDICAL STORE                               DRABIN                                             02 5                DRABIN                                             
+2003   104266     ZAHID MS                                           DHQ HOSPITAL DIKHAN                                02 1                DHQ                                                
+2003   104265     ZAFAR MEDICAL STORE                                TANK ADDA                                          02 3                4 BAZAR                                            
+2003   104264     YONIS MEDICAL STORE                                UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104263     YASEEN MS                                          JINNAH COMPLEX DHQ DIKHAN                          02 1                DHQ                                                
+2003   104262     WAZIRISTAN MS                                      DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104261     WASIM MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104260     WARIS TRADER                                       JINNAH 2 DIKHAN                                    02 1                DHQ                                                
+2003   104259     WAHEED MS                                          NEW BANNU CHUNGI DIKHAN                            02 2                CIRCULAR ROAD                                      
+2003   104258     USMAN MEDICAL STORE                                DHQ HOSPITAL DIKHAN                                02 1                DHQ                                                
+2003   104257     USMAN ENTERPRISES                                  DEFENCE VIEW COLONY BANNU ROAD                     02 11               BANNU ROAD                                         
+2003   104256     UNIQUE ENTERPRISES                                 BAZAR                                              02 3                4 BAZAR                                            
+2003   104255     UMER MS                                            DHAKKI MOR                                         02 18               DHAKKI MOR                                         
+2003   104254     UMAR MS                                            DRABIN CITY                                        02 5                DRABIN                                             
+2003   104253     UMAIR MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104252     TURFA MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104251     TOUQEER PHARMACY                                   DRABIN ROAD                                        02 5                DRABIN                                             
+2003   104250     TORANI MEDICAL STORE                               THQ HOSPITAL PHARPUR                               02 4                PHARPUR                                            
+2003   104249     TARIQ MEDICAL STORE                                PHARPUR                                            02 4                PHARPUR                                            
+2003   104248     TARIQ & CO                                         DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104247     TALHA MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104246     TAJ MS                                             DIKHAN                                             02 15               DIKHAN                                             
+2003   104245     TAHIR MS                                           PEZU SHAHBAZ KHEL                                  02 7                PEZU                                               
+2003   104244     TAHIR MEDICAL STRE                                 ZAFAR ABAD DIKHAN                                  02 13               ZAFAR ABAD COLO                                    
+2003   104243     TAHIR MEDICAL STORE                                KOTJAI                                             02 4                PHARPUR                                            
+2003   104242     SON ENTERPRISES                                    DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104241     SULTAN MEDICAL STORE                               BAZAR                                              02 3                4 BAZAR                                            
+2003   104240     SULTAN MEDICAL HALL                                UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104239     STURYANI MS                                        DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104238     STANDARD MEDICINE                                  DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104237     SMART PHARMACY MEDICOSE                            NEW CHUNGI BANNU ROAD                              02 11               BANNU ROAD                                         
+2003   104236     SIRAJ MEDICAL STORE                                SHAHBAZ KHEL                                       02 6                SHAHBAZ KHEL                                       
+2003   104235     SHOKAT MS                                          DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104234     SHOAIB MEDICINE COMPANY                            MADINA MARKET COMMISSIONARY BAZAR                  02 3                4 BAZAR                                            
+2003   104233     SHIFA MS                                           NAZD HAYAT COMPLEX                                 02 1                DHQ                                                
+2003   104232     SHEZAD MS                                          SADAR BAZAR DIKHAN                                 02 2                CIRCULAR ROAD                                      
+2003   104231     SHERYAR MS                                         BAZAR DIKHAN                                       02 3                4 BAZAR                                            
+2003   104230     SHERANI MS                                         DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104229     SHEIKH MS                                          CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104228     SHAZIR MS                                          BAZAR                                              02 3                4 BAZAR                                            
+2003   104227     SHAYAN MS                                          UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104226     SHAMROZ MS                                         DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104225     SHAHRUKH MS                                        BANNU ADDA DIKHAN                                  02 2                CIRCULAR ROAD                                      
+2003   104224     SHAHID MS                                          DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104223     SHAHEER MS                                         ZAFAR ABAD                                         02 13               ZAFAR ABAD COLO                                    
+2003   104222     SHAHEEN CHEMIST                                    CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104221     SHAHBAZ MS                                         PEZU SHAHBAZ KHEL                                  02 7                PEZU                                               
+2003   104220     SHAH NAWAZ MS                                      DHQ HOSPITAL DIKHAN                                02 1                DHQ                                                
+2003   104219     SHAH MEDICAL STORE                                 PEZU SHAHBAZ KHEL                                  02 7                PEZU                                               
+2003   104218     SHABI KHEL MEDICAL STORE                           OPPOSITE DHQ HOSPITAL DIKHAN                       02 1                DHQ                                                
+2003   104217     SEENA PHARMACY                                     DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104216     SCOUTS WELFARE PHARMACY                            CMH DIKHAN                                         02 14               CMH                                                
+2003   104215     SARHAD PHARMA                                      LAGHARI GATE DIKHAN                                02 2                CIRCULAR ROAD                                      
+2003   104214     SALVA FOODS                                        CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104213     SALMAN MEDICOSE                                    NEW BANNU CHUNGI CIRCULAR ROAD DIKHAN              02 2                CIRCULAR ROAD                                      
+2003   104212     SALMAN KHEL MS                                     DHQ HOSPITAL DIKHAN                                02 1                DHQ                                                
+2003   104211     SALIM MS                                           UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104210     SAJID MS                                           COMMISSIONARY BAZAR DIKHAN                         02 3                4 BAZAR                                            
+2003   104209     SAJEEL TRADER                                      CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104208     ROHLLAH MS                                         CHASHMA ROAD KOTJAI                                02 4                PHARPUR                                            
+2003   104207     REHMANIA MEDICAL CENTER                            DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104206     REHMAN MS                                          TANK ADA DINPUR ROAD DIKHAN                        02 2                CIRCULAR ROAD                                      
+2003   104205     REHMAN ENTERPRISES                                 FAQEERNI GATE OPPOSITE DHQ HOSPITAL DIKHAN         02 1                DHQ                                                
+2003   104204     RAZA MS                                            PEZU                                               02 7                PEZU                                               
+2003   104203     RASHID MS DIKHAN                                   SHEIKH YUSUF ADDA CHASHMA ROAD DIKHAN              02 11               BANNU ROAD                                         
+2003   104202     RASHID MS                                          DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104201     RASHEED MS                                         PEZU SHAHBAZ KHEL                                  02 7                PEZU                                               
+2003   104200     RASHEED AHMAD MS                                   DIKHAN                                             02 15               DIKHAN                                             
+2003   104199     RAJA MS                                            DHQ HOSPITAL DIKHAN                                02 1                DHQ                                                
+2003   104198     QAZI MS                                            BAZAR                                              02 3                4 BAZAR                                            
+2003   104197     QAYYUM MS                                          CHASHMA ROAD KOTJAI                                02 4                PHARPUR                                            
+2003   104196     PRINCE MS                                          DHQ HOSPITAL DIKHAN                                02 1                DHQ                                                
+2003   104195     PHARMICS MS                                        MISSION MOOR                                       02 3                4 BAZAR                                            
+2003   104194     PEER GILLANI BHITTANI MS                           FIDA COMPLEX DHQ DIKHAN                            02 1                DHQ                                                
+2003   104193     PANO M COMPANY                                     DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104192     PAKISTAN MS                                        BAZAR                                              02 3                4 BAZAR                                            
+2003   104191     PAK MS                                             UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104189     NIAZI MS                                           PHARPUR                                            02 4                PHARPUR                                            
+2003   104188     NEW TAHIR MEDICAL STORE                            JINNAH 2 DHQ                                       02 1                DHQ                                                
+2003   104187     NEW SHOAIB MS                                      DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104186     NEW SAJID MEDICAL STORE                            THQ PHARPUR                                        02 16               THQ                                                
+2003   104185     NEW QAZI MS                                        DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104184     NEW MARWAT MEDICAL STORE                           THQ PHARPUR                                        02 16               THQ                                                
+2003   104183     NEW MADINA MS                                      DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104182     NEW LIFE PHARMACY                                  THQ HOSPITAL DIKHAN                                02 16               THQ                                                
+2003   104181     NEW KHYBER MEDICAL STORE                           UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104179     NEW JAMSHED MEDICAL STORE                          PAHARPUR BAZAR                                     02 4                PHARPUR                                            
+2003   104178     NEW IMRAN MS                                       CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104177     NEW HAFIZ MS                                       BANNU ROAD DIKHAN                                  02 11               BANNU ROAD                                         
+2003   104176     NEW HAFIZ MEDICAL STORE                            UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104175     NEW GOMAL PHARMACY                                 DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104174     NEW DERA MEDICAL STORE                             MUFTI MEHMOOD HOPITAL DIKHAN                       02 8                MUFTI MEHMOOD H                                    
+2003   104173     NEW DAMAN MEDICAL STORE                            UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104172     NEW AYAAN MS                                       DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104171     NEW AMEEN MS                                       DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104170     NEW AL MADINA MEDICAL STORE                        JINNAH 2 DHQ DIKHAN                                02 1                DHQ                                                
+2003   104169     NEW ABBASEEN MS                                    DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104168     NEMRA MEDICAL STORE                                TANK ADDA                                          02 3                4 BAZAR                                            
+2003   104167     NAWAZ MEDICAL STORE                                RANGPUR ADA                                        02 9                RANGPUR                                            
+2003   104166     NAVEED MEDICAL STORE                               TANK ADDA                                          02 3                4 BAZAR                                            
+2003   104165     NASIR MEDICOSE                                     NEW BANNU CHUNGI DIKHAN                            02 11               BANNU ROAD                                         
+2003   104164     MUMTAZ MS                                          ZAFAR ABAD COLONY DIKHAN                           02 13               ZAFAR ABAD COLO                                    
+2003   104163     MUHAMMAD MEDICAL HALL                              CHAH SYED MUNAWAR SHAH                             02 1                DHQ                                                
+2003   104162     MOHSIN MEDICAL STORE                               BAZAR DIKHAN                                       02 3                4 BAZAR                                            
+2003   104161     MISBAH INTERNATIONAL HOSPITAL                      CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104160     MAZHER MS                                          DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104159     MAZHAR MEDICOSE                                    DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104158     MATTIULLAH MS                                      PEZU SHAHBAZ KHEL                                  02 7                PEZU                                               
+2003   104157     MARWAT MEDICINE                                    PANYALA                                            02 12               PANYALA                                            
+2003   104156     MARWAT MEDICAL STORE                               PHARPUR                                            02 4                PHARPUR                                            
+2003   104155     MARHABA MS                                         DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104154     MANGLA MS                                          DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104153     MANGLA DRUG HOUSE                                  DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104152     MANAN MS                                           JINNAH COMPLEX DIKHAN                              02 1                DHQ                                                
+2003   104150     MALIK MEDICAL STORE                                SHORKOT                                            02 11               BANNU ROAD                                         
+2003   104149     MAKKA MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104148     MAKKA MEDICAL STORE                                THQ PHARPUR                                        02 16               THQ                                                
+2003   104147     MADINA MS PAIZO                                    DARRA E PEZU                                       02 7                PEZU                                               
+2003   104146     MADINA MS                                          PHARPUR                                            02 4                PHARPUR                                            
+2003   104145     MADINA MEDICAL STORE                               SHEIKH YUSUF ADA DIKHAN                            02 11               BANNU ROAD                                         
+2003   104144     MAA GI ENTERPRISES                                 INSIDE KIRRI ALIZAI DIKHAN                         02 1                DHQ                                                
+2003   104143     LONDON MS                                          DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104142     LODHI TRADERS                                      CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104141     LIFE PHARMACY                                      PHARPUR                                            02 4                PHARPUR                                            
+2003   104140     LATIF MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104139     KHYBER PHARMACY                                    OLD TB HOSPITAL DIKHAN                             02 1                DHQ                                                
+2003   104138     KHYBER MS                                          JINNAH COMPLEX DHQ DIKHAN                          02 1                DHQ                                                
+2003   104137     KHAKWANY PHARMACY                                  MUSLIM BAZAR                                       02 3                4 BAZAR                                            
+2003   104136     KARACHI PHARMACY                                   JINNAH 2 DIKHAN                                    02 1                DHQ                                                
+2003   104135     KARACHI MS                                         DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104134     JUNAID MS                                          DRABIN CHUNGI                                      02 5                DRABIN                                             
+2003   104133     JINNAH PHARMACY                                    JINNAH COMPLEX DHQ DIKHAN                          02 1                DHQ                                                
+2003   104132     JAVED MEDICAL STORE                                PHARPUR                                            02 4                PHARPUR                                            
+2003   104130     JAMSHED MEDICAL STORE                              PHARPUR BAZAR                                      02 4                PHARPUR                                            
+2003   104129     JAMIL MEDICAL CENTER                               GILANI HOSPITAL OPPOSITE NEW EMERGNCY CENTER DIK   02 1                DHQ                                                
+2003   104128     JALAL MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104127     JADEED MEDICAL PHARMACY                            BANNU ROAD SHORKOT DIKHAN                          02 11               BANNU ROAD                                         
+2003   104126     ITEFAQ MS                                          UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104124     ISLAMABAD INTERNATIONAL HOSPITAL                   DRABIN ROAD DIKHAN                                 02 5                DRABIN                                             
+2003   104123     IRFAN MEDICAL STORE                                BAZAR AREA                                         02 3                4 BAZAR                                            
+2003   104122     IQBAL MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104121     IQBAL DRUG HOUSE                                   DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104120     INSAAF MS                                          FIDA PLAZA DHQ                                     02 1                DHQ                                                
+2003   104119     INDUS PHARMACY                                     UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104118     INDUS ENTERPRISES                                  MOHALLAH HAYAT ULLAH                               02 3                4 BAZAR                                            
+2003   104117     ILYAS MS                                           FIDA COMPLEX DIKHAN                                02 1                DHQ                                                
+2003   104116     IBRAR MEDICOSE                                     JINNAH 2 DHQ DIKHAN                                02 1                DHQ                                                
+2003   104115     IBRAHIM KAMAL MEDICAL STORE                        UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104114     HEART PHARMACY                                     DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104113     HAYAT PHARMACY                                     CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104112     HAYAT MEDICAL STORE                                BANNU ROAD DIKHAN                                  02 11               BANNU ROAD                                         
+2003   104111     HAYAAT COMPLEX                                     DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104110     HASSA MS                                           BANNU ROAD OPPOSITE KOTLI IMAM DIK                 02 11               BANNU ROAD                                         
+2003   104108     HAMZA MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104107     HAMMAD MS                                          NEW BANNU CHUNGI DIKHAN                            02 11               BANNU ROAD                                         
+2003   104105     HAMDARD MS                                         DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104104     HAMDARD CITY MART                                  TOPANWALA CHOWK                                    02 2                CIRCULAR ROAD                                      
+2003   104103     HAJI MS                                            DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104102     HAJI GHULAM RASOOL MEDICAL STORE                   KOTJAI CHASHMA ROAD                                02 4                PHARPUR                                            
+2003   104101     HAJI AND SON                                       UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104100     HAIDER MS                                          CHASHMA ROAD RANGPUR ADA                           02 9                RANGPUR                                            
+2003   104099     HAFIZ MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104098     HAFIZ COMPLEX                                      DRABIN ROAD DIKHAN                                 02 2                CIRCULAR ROAD                                      
+2003   104097     GULSHAN SWEETS AND BAKERS                          CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104096     GULSHAN CASH AND CARRY                             CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104095     GUL MEDICINE                                       GRID ROAD DIKHAN                                   02 2                CIRCULAR ROAD                                      
+2003   104094     GUL & SONS MEDICAL STORE                           KAMISHNARY                                         02 3                4 BAZAR                                            
+2003   104093     GOMAL SURGICAL                                     DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104092     GOMAL MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104091     GILANI SHABI KHEL                                  DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104090     GANDAPUR MS                                        DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104089     GALAXY MEDICINE COMPANY                            GALI BAGH WALI DIKHAN                              02 2                CIRCULAR ROAD                                      
+2003   104088     FRONTIER MEDICAL STORE                             BAKARI BAZAR                                       02 3                4 BAZAR                                            
+2003   104087     FRIEND PHARMACY                                    CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104086     FAZAL MS                                           DEENPUR ROAD DIKHAN                                02 2                CIRCULAR ROAD                                      
+2003   104085     FASIULLAH MS                                       PEZU SHAHBAZ KHEL                                  02 7                PEZU                                               
+2003   104084     FARHAT MEDICINE COMPANY                            LIBERTY MARKET DIKHAN                              02 2                CIRCULAR ROAD                                      
+2003   104083     FAIZAN MS                                          BAZAR AREA                                         02 3                4 BAZAR                                            
+2003   104082     EMAN MEDICAL STORE                                 JINNAH 2 DHQ DIKHAN                                02 1                DHQ                                                
+2003   104081     EISA MS                                            CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104080     EISA MEDICINE COMPANY                              PUSAH PULL BANNU ROAD DIKHAN                       02 11               BANNU ROAD                                         
+2003   104079     DUA MS                                             DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104078     DR SAID MUHAMMAD MEDICAL STORE                     PHARPUR                                            02 4                PHARPUR                                            
+2003   104077     DR SABA REHMAN                                     DHQ HOSPITAL DIKHAN                                02 1                DHQ                                                
+2003   104076     DR ROSHAN                                          DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104075     DR QAZI LUTFUREHMAN                                CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104074     DR NASEEM SABA                                     MODEL TOWN DIKHAN                                  02 10               MULTAN ROAD                                        
+2003   104073     DR MAHABAT NOOR CLINIC                             PEZU                                               02 7                PEZU                                               
+2003   104072     DR FOZIA KUNDI                                     DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104071     DR FAZAL CO KHYBER MS                              JINNAH COMPLEX DIKHAN                              02 1                DHQ                                                
+2003   104070     DR ASMATULLAH BARKI                                DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104069     DINAR CANCER HOSPITAL                              INSIDE MUFTI MEHMOOD DIKHAN                        02 8                MUFTI MEHMOOD H                                    
+2003   104068     DEYAN TRADER                                       JINNAH 2 DIKHAN                                    02 1                DHQ                                                
+2003   104067     DAUD MS                                            DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104066     DANISH MEDICAL STORE                               ALIZAI GATE DHQ DIKHAM                             02 1                DHQ                                                
+2003   104065     DAMAN MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104064     CITY MED CENTER                                    CITY MEDICAL CENTER                                02 1                DHQ                                                
+2003   104063     CHAUDRY MEDICOSE                                   KALAN BAZAR                                        02 3                4 BAZAR                                            
+2003   104062     CHASHMA MS                                         NEW BANNU CHUNGI DIKHAN                            02 11               BANNU ROAD                                         
+2003   104061     CHANDIO MEDICOSE                                   VILLAGE ROHALLAH PAHARPUR                          02 4                PHARPUR                                            
+2003   104060     CARE AND CURE                                      UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104059     CAPSULE PHARMACY                                   NEAR FOWARA CHOWK DIKHAN                           02 2                CIRCULAR ROAD                                      
+2003   104058     BUKHARI MEDICAL STORE                              MMH                                                02 8                MUFTI MEHMOOD H                                    
+2003   104057     BROTHER MS                                         DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104056     BHITANI MEDICAL STORE                              RANGPUR ADA                                        02 9                RANGPUR                                            
+2003   104055     BASIT MEDICAL STORE                                CHASHMA ROAD KOTJAI                                02 4                PHARPUR                                            
+2003   104054     BARKI MS                                           THQ HOSPITAL PHARPUR                               02 16               THQ                                                
+2003   104053     BARKI MEDICAL STORE                                MMH DIKHAN                                         02 8                MUFTI MEHMOOD H                                    
+2003   104052     BANGASH MS                                         DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104051     BALOCH DRUG HOUSE                                  DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104050     BALOCH MS                                          DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104049     BAKHMAL MS                                         PEZU                                               02 7                PEZU                                               
+2003   104048     BABA MS                                            DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104047     AZIZ TRADERS                                       DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104046     AZIZ MEDICOSE                                      SHEIKH YUSUF ADA DIKHAN                            02 11               BANNU ROAD                                         
+2003   104045     AZHAN MS                                           RANGPUR ADA                                        02 9                RANGPUR                                            
+2003   104044     AZHAR MS                                           BAKARI BAZAR                                       02 3                4 BAZAR                                            
+2003   104043     AZEEM MEDICAL CENTER                               UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104042     AZEEM MCENTER                                      DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104041     AYESHA MEDICAL STORE                               SHIEKH YUSUF ADA                                   02 11               BANNU ROAD                                         
+2003   104040     AWAN MEDICAL STORE                                 GHASS MANDI                                        02 3                4 BAZAR                                            
+2003   104039     ATTIF MEDICAL STORE                                UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104038     ATTA PHARMACY                                      COMMISSIONARY BAZAR DIKHAN                         02 3                4 BAZAR                                            
+2003   104037     ATTA MEDICAL STORE                                 PHARPUR                                            02 4                PHARPUR                                            
+2003   104036     ASIF MEDICAL STORE                                 PHARPUR                                            02 4                PHARPUR                                            
+2003   104035     ASAD MEDICOSE                                      RANGPUR ROAD                                       02 9                RANGPUR                                            
+2003   104034     ARHAM MEDICINE TRADERS                             BASEMENT JINNAH 2 COMPLEX                          02 1                DHQ                                                
+2003   104033     ARFA MS                                            DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104032     ARBAB MEDICAL STORE                                UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104031     ANMOL MS                                           TRAFFIC CHOWK CIRCULAR ROAD DIK                    02 2                CIRCULAR ROAD                                      
+2003   104030     ANFAL MEDICAL STORE                                BAZAR                                              02 3                4 BAZAR                                            
+2003   104029     AMMAR MEDICAL STORE                                UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104028     AMJID MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104027     AMJED MS                                           KALAN BAZAR                                        02 3                4 BAZAR                                            
+2003   104026     AMAN MEDICINE COMPANY                              GILLANI MARKET DIKHAN                              02 2                CIRCULAR ROAD                                      
+2003   104025     ALYAN MEDICAL STORE                                PEZU SHAHBAZ KHEL                                  02 7                PEZU                                               
+2003   104024     ALVI MEDICAL STORE                                 UNDEFINED                                          02 17               UNDEFINED                                          
+2003   104023     ALQAIM MS                                          CIRCULAR ROAD DIKHAN                               02 2                CIRCULAR ROAD                                      
+2003   104022     ALIZAI MS                                          DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104021     AL HAFIZ BABAR MEDICAL STORE                       MUFTI MAHMOOD HOSPITAL DIKHAN                      02 8                MUFTI MEHMOOD H                                    
+2003   104020     AL SHIFA MS                                        PEZU                                               02 7                PEZU                                               
+2003   104019     AL SAOOD MEDICAL STORE                             DERA BANNU ROAD SHAHBAZ KHEL                       02 7                PEZU                                               
+2003   104018     AL REHMAN MS                                       SHEIKH YUSUF ADA DIKHAN                            02 11               BANNU ROAD                                         
+2003   104017     AL REHMAN MEDICAL STORE                            BAZAR                                              02 3                4 BAZAR                                            
+2003   104016     AL KHIDMAT MS                                      PEZU SHAHBAZ KHEL                                  02 6                SHAHBAZ KHEL                                       
+2003   104015     AL HARAMAIN                                        DRABIN                                             02 5                DRABIN                                             
+2003   104014     ALHAIDER MEDICAL STORE                             PAHARPUR                                           02 4                PHARPUR                                            
+2003   104013     AKHANZADA MS                                       SHEIKH YUSUF ADA DIKHAN                            02 11               BANNU ROAD                                         
+2003   104012     AKAM MS                                            BAZAR                                              02 3                4 BAZAR                                            
+2003   104011     AHMAR MS                                           MUSLIM BAZAR DIKHAN                                02 3                4 BAZAR                                            
+2003   104010     AHMAD MS                                           JINNAH 2 CENTER DIKHAN                             02 1                DHQ                                                
+2003   104009     AFNAN MS                                           BAKARI BAZR                                        02 3                4 BAZAR                                            
+2003   104008     ADNAN MS                                           SHIEKH YUSUF ADA DIKHAN                            02 11               BANNU ROAD                                         
+2003   104007     ABU BAKER PHARMACY                                 GHAS MANDI DIKHAN                                  02 3                4 BAZAR                                            
+2003   104006     ABDUL RAHIM KHAN                                   DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104005     AANAK PHARMACY                                     FIDA COMPLEX DHQ DIKHAN                            02 1                DHQ                                                
+2003   104004     AAMIR MS                                           DHQ DIKHAN                                         02 1                DHQ                                                
+2003   104003     AAMIR MEHSOOD MS                                   CIRCULAR ROAD NEW BANNU CHUNGI DIKHAN              02 11               BANNU ROAD                                         
+2003   104002     AAMAN MS                                           RANGPUR                                            02 9                RANGPUR                                            
+2003   104001     AAFAAN MS                                          DHQ HOSPITAL DIKHAN                                02 1                DHQ                                                
